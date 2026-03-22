@@ -23,6 +23,12 @@ It is a limited public-facing sample prepared for general information purposes.
 - mock data used by the sample files
 - a simplified repository structure that is safe to review publicly
 
+### High-level technology stack of the private product
+
+- Mobile application: Flutter and Dart
+- Cloud and application services: Firebase Authentication, Cloud Firestore, Firebase Messaging, Cloud Functions
+- Device capabilities and integrations: Google Maps, geolocation, local notifications, shared preferences
+
 ### What is intentionally not included
 
 - the full production source code
@@ -69,6 +75,12 @@ Bu depo, yalnızca genel bilgilendirme amacıyla hazırlanmış sınırlı bir p
 - seçilmiş Flutter örnek ekran dosyaları
 - örnek dosyalarda kullanılan mock data
 - public inceleme için sadeleştirilmiş ve güvenli hâle getirilmiş bir depo yapısı
+
+### Private ürünün yüksek seviyeli teknoloji yığını
+
+- Mobil uygulama: Flutter ve Dart
+- Bulut ve uygulama servisleri: Firebase Authentication, Cloud Firestore, Firebase Messaging, Cloud Functions
+- Cihaz özellikleri ve entegrasyonlar: Google Maps, konum servisleri, yerel bildirimler, shared preferences
 
 ### Bu repoda bilinçli olarak neler yok
 
